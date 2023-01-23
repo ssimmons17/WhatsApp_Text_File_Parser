@@ -62,4 +62,4 @@ def csv_conversion(rows):
         whatsapp_csv.close()
 
 
-parse_chat_file('/home/stephen/Downloads/WhatsApp Chat - Tripp Eason/_chat.txt')
+parse_chat_file(Full_Path_To_WhatsApp_Text_File)
