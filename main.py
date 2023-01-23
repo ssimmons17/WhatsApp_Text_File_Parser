@@ -20,7 +20,6 @@ whats_app_dates = []
 whats_app_times = []
 whats_app_names = []
 whats_app_messages = []
-whats_app_attachments = []
 
 
 # function to open the _chats.txt file and read each line
